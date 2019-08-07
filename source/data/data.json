@@ -1,0 +1,860 @@
+[
+  {
+    "id": 0,
+    "name": "Mobil",
+    "title": "Habla y navega",
+    "urlName": "habla-navega",
+    "icon": "mobile",
+    "tags": [
+      "index",
+      "mobile"
+    ],
+    "titleTariff": "¿Inimitable o personalizada?",
+    "offers": [
+      {
+        "id": 0,
+        "name": "inimitable",
+        "title": "La Inimitable",
+        "multichoice": false,
+        "bundles": [
+          {
+            "id": 0,
+            "code": 294,
+            "area": "MV",
+            "family": "VOZ-DATOS",
+            "name": "La Inimitable",
+            "urlName": "/tarifas-moviles/la-inimitable",
+            "urlFamily": "/habla-y-navega/ilimitadas",
+            "breadcrumb": {
+              "path": "/tarifas-moviles",
+              "caption": "Móvil"
+            },
+            "description": "<span>DATOS</span><br/><b>23GB</b> acumulables<br/><br/><span>LLAMADAS</span><br/><b>ilimitadas</b>",
+            "textInCard": "La Inimitable",
+            "isConvergent": false,
+            "blueRibbon": false,
+            "textOverFeatures": "<span className=\"big-number\">23</span><b>GB</b> acumulables<br />Llamadas <b>ilimitadas</b>",
+            "labelInCard": "La quiero",
+            "price": "19'90",
+            "slug": "la-inimitable",
+            "features": [
+              {
+                "id": 0,
+                "category": "navega",
+                "value": "23",
+                "units": "GB"
+              },
+              {
+                "id": 1,
+                "category": "habla",
+                "value": "ilimitadas",
+                "units": ""
+              }
+            ],
+            "convergentDetails": [
+              {
+                "name": "DATOS",
+                "value": "<b>23GB</b> para navegar al mes, y si te sobran, <b>¡los acumulas para el siguiente mes!</b>"
+              },
+              {
+                "name": "LLAMADAS",
+                "value": "Incluye <b>llamadas ilimitadas</b> a fijos y móviles nacionales."
+              }
+            ],
+            "details": [
+              {
+                "name": "Detalle de tarifa",
+                "value": "<b>23GB</b> para navegar al mes, y si te sobran, <b>¡los acumulas para el siguiente mes!</b><br />Si se te acaban los datos navegarás a velocidad reducida sin coste adicional. Si quieres seguir navegando a alta velocidad tienes las siguientes opciones:<br />- Activar bonos de 1GB/1€ (limite 1GB/día)<br />- Comprar bonos de 1GB/6€<br />- Duplicar los GBs de tu tarifa por el mismo precio (19,90€)<br /><br /><b>LLAMADAS ILIMITADAS</b> a fijos y móviles nacionales, sin coste de establecimiento ni más limitaciones que hacer un uso adecuado (destinarlo a tu uso personal y no revender el servicio). Excluye las llamadas de tarificación especial.<br /><br /><b>SMS</b> no incluidos. Coste por envío de SMS 10,89 cént.<br /><br /><b>ROAMING</b> en la UE sin coste, llama y navega como si estuvieras en España (podrás utilizar 7,31GB de tu bono de datos nacional para navegar). <a href=\"/tarifas-moviles/roaming-europa\">Ver detalle de paises</a><br /><br /><b>SIN COMPROMISO</b> de permanencia y cambiando tu tarifa todos los meses si quieres.<br /><br />Si ya tienes <b>Fibra + Inimitable</b>, y contratas esta línea como adicional el precio es de 10€/mes (descuento de -9,90€ por tener los 3 servicios bajo mismo titular y pagados en misma cuenta corriente). <span style=\"color: #4A90E2\">Por el momento, en el resumen de compra no somos capaces de mostrarte el descuento, pero en Pepephone todos los descuentos se aplican automáticamente cuando cumples condiciones, es decir, no tienes que pedírnoslos.</span>"
+              },
+              {
+                "name": "Y si quieres energía a precio de coste…",
+                "value": "<b>Descubre Pepeenergy</b>, nuestra compañía eléctrica. Por ser cliente de Pepephone tendrás <b>energía 100% verde a precio de coste</b> y te ahorrarás la cuota mensual (4€/mes para no clientes). Porque el mercado de la electricidad también necesita principios.<br /><br /><a href=\"https://www.pepeenergy.com/\" target=\"_blank\">Ir a Pepeenergy</a>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Personalizada",
+        "title": "Personalizada",
+        "multichoice": true,
+        "bundles": [
+          {
+            "id": 1,
+            "code": 1101,
+            "area": "MV",
+            "family": "VOZ-DATOS",
+            "name": "3GB + 101 min.",
+            "subtitle": "La reducida",
+            "urlName": "/tarifas-moviles/la-reducida",
+            "urlFamily": "/habla-y-navega/habla-101-minutos",
+            "breadcrumb": {
+              "path": "/tarifas-moviles",
+              "caption": "Móvil"
+            },
+            "description": "<span>DATOS</span><br/><b>3GB</b> acumulables<br/><br/><span>HABLA</span><br/><b>101 minutos</b>",
+            "labelInCard": "La quiero",
+            "textInCard": "Móvil 3GB",
+            "isConvergent": false,
+            "textOverFeatures": "<span className=\"big-number\">3</span><b>GB</b> acumulables<br />Llamadas <b>101min</b>",
+            "price": "11'90",
+            "slug": "la-reducida",
+            "features": [
+              {
+                "id": 2,
+                "category": "navega",
+                "value": "3",
+                "units": "GB"
+              },
+              {
+                "id": 3,
+                "category": "habla",
+                "value": "101",
+                "units": "min"
+              }
+            ],
+            "convergentDetails": [
+              {
+                "name": "DATOS",
+                "value": "<b>3GB</b> para navegar al mes, y si te sobran, <b>¡los acumulas para el siguiente mes!</b>"
+              },
+              {
+                "name": "LLAMADAS",
+                "value": "<b>Incluye 101 min</b> desde móvil a fijos y móviles nacionales (sin coste de establecimiento de llamada). Superados, el coste es 0 cént./min los primeros 20 min de cada llamada y luego 0,73 cént./min. Coste de establecimiento de llamada 18,15 cént."
+              }
+            ],
+            "details": [
+              {
+                "name": "Detalle de tarifa",
+                "value": "<b>3GB</b> para navegar al mes, y si te sobran, <b>¡los acumulas para el siguiente mes!</b><br />Si se te acaban los datos navegarás a velocidad reducida sin coste adicional. Si quieres seguir navegando a alta velocidad tienes las siguientes opciones:<br />- Activar bonos de 1GB/1€ (limite 1GB/día)<br />- Comprar bonos de 1GB/6€<br />- Duplicar los GBs de tu tarifa por el mismo precio (11,90€)<br />- Cambiarte a una tarifa superior desde la App Mi Pepephone.<br /><br /><b>LLAMADAS</b>, incluyen 101 min desde móvil a fijos y móviles nacionales (sin coste de establecimiento de llamada). Superados, el coste es 0 cént./min los primeros 20 min de cada llamada y luego 0,73 cént./min. Coste de establecimiento de llamada 18,15 cént.<br /><br /><b>SMS</b> no incluidos: Coste por envío de SMS 10,89 cént.<br /><br /><b>ROAMING</b> en la UE sin coste, llama y navega como si estuvieras en España (podrás utilizar el 100% de tu bono de datos nacional para navegar). <a href=\"/tarifas-moviles/roaming-europa\">Ver detalle de paises</a><br /><br /><b>SIN COMPROMISO</b> de permanencia y cambiando tu tarifa todos los meses si quieres."
+              },
+              {
+                "name": "Y si quieres energía a precio de coste…",
+                "value": "<b>Descubre Pepeenergy</b>, nuestra compañía eléctrica. Por ser cliente de Pepephone tendrás <b>energía 100% verde a precio de coste</b> y te ahorrarás la cuota mensual (4€/mes para no clientes). Porque el mercado de la electricidad también necesita principios.<br /><br /><a href=\"https://www.pepeenergy.com/\" target=\"_blank\">Ir a Pepeenergy</a>"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "code": 1102,
+            "area": "MV",
+            "family": "VOZ-DATOS",
+            "name": "6GB + 101 min.",
+            "subtitle": "La mejor",
+            "urlName": "/tarifas-moviles/la-mejor",
+            "urlFamily": "/habla-y-navega/habla-101-minutos",
+            "breadcrumb": {
+              "path": "/tarifas-moviles",
+              "caption": "Móvil"
+            },
+            "description": "<span>DATOS</span><br/><b>6GB</b> acumulables<br/><br/><span>HABLA</span><br/><b>101 minutos</b>",
+            "textInCard": "Móvil 6GB",
+            "blueRibbon": false,
+            "isConvergent": false,
+            "textOverFeatures": "<span className=\"big-number\">6</span><b>GB</b> acumulables<br />Llamadas <b>101min</b>",
+            "labelInCard": "La quiero",
+            "price": "14'90",
+            "slug": "la-mejor",
+            "features": [
+              {
+                "id": 4,
+                "category": "navega",
+                "value": "6",
+                "units": "GB"
+              },
+              {
+                "id": 3,
+                "category": "habla",
+                "value": "101",
+                "units": "min"
+              }
+            ],
+            "convergentDetails": [
+              {
+                "name": "DATOS",
+                "value": "<b>6GB</b> para navegar al mes, y si te sobran, <b>¡los acumulas para el siguiente mes!</b>"
+              },
+              {
+                "name": "LLAMADAS",
+                "value": "<b>Incluye 101 min</b> desde móvil a fijos y móviles nacionales (sin coste de establecimiento de llamada). Superados, el coste es 0 cént./min los primeros 20 min de cada llamada y luego 0,73 cént./min. Coste de establecimiento de llamada 18,15 cént."
+              }
+            ],
+            "details": [
+              {
+                "name": "Detalle de tarifa",
+                "value": "<b>6GB</b> para navegar al mes, y si te sobran, <b>¡los acumulas para el siguiente mes!</b><br />Si se te acaban los datos navegarás a velocidad reducida sin coste adicional. Si quieres seguir navegando a alta velocidad tienes las siguientes opciones:<br />- Activar bonos de 1GB/1€ (limite 1GB/día)<br />- Comprar bonos de 1GB/6€<br />- Duplicar los GBs de tu tarifa por el mismo precio (14,90€)<br />- Cambiarte a una tarifa superior desde la App Mi Pepephone.<br /><br /><b>LLAMADAS</b>, incluyen 101 min desde móvil a fijos y móviles nacionales (sin coste de establecimiento de llamada). Superados, el coste es 0 cént./min los primeros 20 min de cada llamada y luego 0,73 cént./min. Coste de establecimiento de llamada 18,15 cént.<br /><br /><b>SMS</b> no incluidos: Coste por envío de SMS 10,89 cént.<br /><br /><b>ROAMING</b> en la UE sin coste, llama y navega como si estuvieras en España (podrás utilizar 5,47GB de tu bono de datos nacional para navegar). <a href=\"/tarifas-moviles/roaming-europa\">Ver detalle de paises</a><br /><br /><b>SIN COMPROMISO</b> de permanencia y cambiando tu tarifa todos los meses si quieres."
+              },
+              {
+                "name": "Y si quieres energía a precio de coste…",
+                "value": "<b>Descubre Pepeenergy</b>, nuestra compañía eléctrica. Por ser cliente de Pepephone tendrás <b>energía 100% verde a precio de coste</b> y te ahorrarás la cuota mensual (4€/mes para no clientes). Porque el mercado de la electricidad también necesita principios.<br /><br /><a href=\"https://www.pepeenergy.com/\" target=\"_blank\">Ir a Pepeenergy</a>"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "code": 1103,
+            "area": "MV",
+            "family": "VOZ-DATOS",
+            "name": "3GB y habla a 0cént",
+            "subtitle": "La barata",
+            "urlName": "/tarifas-moviles/la-barata",
+            "urlFamily": "/habla-y-navega/habla-0cent-minuto",
+            "breadcrumb": {
+              "path": "/tarifas-moviles",
+              "caption": "Móvil"
+            },
+            "description": "<span>DATOS</span><br/><b>3GB</b> acumulables<br/><br/><span>HABLA</span><br/><b>Por 0 cént./min</b>",
+            "textInCard": "Móvil 3GB",
+            "isConvergent": false,
+            "blueRibbon": false,
+            "textOverFeatures": "<span className=\"big-number\">3</span><b>GB</b> acumulables<br />Llamadas <b>0cént/min</b>",
+            "labelInCard": "La quiero",
+            "price": "6'90",
+            "slug": "la-barata",
+            "features": [
+              {
+                "id": 2,
+                "category": "navega",
+                "value": "3",
+                "units": "GB"
+              },
+              {
+                "id": 5,
+                "category": "habla",
+                "value": "0",
+                "units": "cént/min"
+              }
+            ],
+            "convergentDetails": [
+              {
+                "name": "DATOS",
+                "value": "<b>3GB</b> para navegar al mes, y si te sobran, <b>¡los acumulas para el siguiente mes!</b>"
+              },
+              {
+                "name": "LLAMADAS",
+                "value": "Hablas por 0 cént./min desde móvil a fijos y móviles nacionales los primeros 20 min de cada llamada y luego 0,73 cént./min. Coste de establecimiento de llamada 18,15 cént."
+              }
+            ],
+            "details": [
+              {
+                "name": "Detalle de tarifa",
+                "value": "<b>3GB</b> para navegar al mes, y si te sobran, <b>¡los acumulas para el siguiente mes!</b><br />Si se te acaban los datos navegarás a velocidad reducida sin coste adicional. Si quieres seguir navegando a alta velocidad tienes las siguientes opciones:<br />- Activar bonos de 1GB/1€ (limite 1GB/día)<br />- Comprar bonos de 1GB/6€<br />- Duplicar los GBs de tu tarifa por el mismo precio (6,90€)<br />- Cambiarte a una tarifa superior desde la App Mi Pepephone.<br /><br /><b>LLAMADAS</b>, hablas por 0 cént./min desde móvil a fijos y móviles nacionales los primeros 20 min de cada llamada y luego 0,73 cént./min. Coste de establecimiento de llamada 18,15 cént.<br /><br /><b>SMS</b> no incluidos. Coste por envío de SMS 10,89 cént.<br /><br /><b>ROAMING</b> en la UE sin coste, llama y navega como si estuvieras en España (podrás utilizar 2,53GB de tu bono de datos nacional para navegar). <a href=\"/tarifas-moviles/roaming-europa\">Ver detalle de paises</a><br /><br /><b>SIN COMPROMISO</b> de permanencia y cambiando tu tarifa todos los meses si quieres."
+              },
+              {
+                "name": "Y si quieres energía a precio de coste…",
+                "value": "<b>Descubre Pepeenergy</b>, nuestra compañía eléctrica. Por ser cliente de Pepephone tendrás <b>energía 100% verde a precio de coste</b> y te ahorrarás la cuota mensual (4€/mes para no clientes). Porque el mercado de la electricidad también necesita principios.<br /><br /><a href=\"https://www.pepeenergy.com/\" target=\"_blank\">Ir a Pepeenergy</a>"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "code": 1104,
+            "area": "MV",
+            "family": "VOZ-DATOS",
+            "name": "6GB y habla a 0cént",
+            "subtitle": "La mediana",
+            "urlName": "/tarifas-moviles/la-mediana",
+            "urlFamily": "/habla-y-navega/habla-0cent-minuto",
+            "breadcrumb": {
+              "path": "/tarifas-moviles",
+              "caption": "Móvil"
+            },
+            "description": "<span>DATOS</span><br/><b>6GB</b> acumulables<br/><br/><span>HABLA</span><br/><b>Por 0 cént./min</b>",
+            "labelInCard": "La quiero",
+            "isConvergent": false,
+            "textInCard": "Móvil 6GB",
+            "textOverFeatures": "<span className=\"big-number\">6</span><b>GB</b> acumulables<br />Llamadas <b>0cént/min</b>",
+            "price": "10'90",
+            "slug": "la-mediana",
+            "features": [
+              {
+                "id": 4,
+                "category": "navega",
+                "value": "6",
+                "units": "GB"
+              },
+              {
+                "id": 5,
+                "category": "habla",
+                "value": "0",
+                "units": "cént/min"
+              }
+            ],
+            "convergentDetails": [
+              {
+                "name": "DATOS",
+                "value": "<b>6GB</b> para navegar al mes, y si te sobran, <b>¡los acumulas para el siguiente mes!</b>"
+              },
+              {
+                "name": "LLAMADAS",
+                "value": "Hablas por 0 cént./min desde móvil a fijos y móviles nacionales los primeros 20 min de cada llamada y luego 0,73 cént./min. Coste de establecimiento de llamada 18,15 cént."
+              }
+            ],
+            "details": [
+              {
+                "name": "Detalle de tarifa",
+                "value": "<b>6GB</b> para navegar al mes, y si te sobran, <b>¡los acumulas para el siguiente mes!</b><br />Si se te acaban los datos navegarás a velocidad reducida sin coste adicional. Si quieres seguir navegando a alta velocidad tienes las siguientes opciones:<br />- Activar bonos de 1GB/1€ (limite 1GB/día)<br />- Comprar bonos de 1GB/6€<br />- Duplicar los GBs de tu tarifa por el mismo precio (10,90€)<br />- Cambiarte a una tarifa superior desde la App Mi Pepephone.<br /><br /><b>LLAMADAS</b> hablas por 0 cént./min desde móvil a fijos y móviles nacionales los primeros 20 min de cada llamada y luego 0,73 cént./min. Coste de establecimiento de llamada 18,15 cént.<br /><br /><b>SMS</b> no incluidos. Coste por envío de SMS 10,89 cént.<br /><br /><b>ROAMING</b> en la UE sin coste, llama y navega como si estuvieras en España (podrás utilizar 4GB de tu bono de datos nacional para navegar). <a href=\"/tarifas-moviles/roaming-europa\">Ver detalle de paises</a><br /><br /><b>SIN COMPROMISO</b> de permanencia y cambiando tu tarifa todos los meses si quieres."
+              },
+              {
+                "name": "Y si quieres energía a precio de coste…",
+                "value": "<b>Descubre Pepeenergy</b>, nuestra compañía eléctrica. Por ser cliente de Pepephone tendrás <b>energía 100% verde a precio de coste</b> y te ahorrarás la cuota mensual (4€/mes para no clientes). Porque el mercado de la electricidad también necesita principios.<br /><br /><a href=\"https://www.pepeenergy.com/\" target=\"_blank\">Ir a Pepeenergy</a>"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Fiber",
+    "title": "Fibra 200Mb",
+    "urlName": "internet-en-casa",
+    "icon": "fiber",
+    "tags": [
+      "fiber"
+    ],
+    "titleTariff": "",
+    "offers": [
+      {
+        "id": 2,
+        "name": "Fibra en casa",
+        "title": "Fibra en casa",
+        "multichoice": false,
+        "bundles": [
+          {
+            "id": 5,
+            "code": 1011,
+            "area": "FH",
+            "family": "FIBRA",
+            "name": "La Fibra 200 Mb al desnudo",
+            "description": "<span>FIBRA</span><br/><b>200 Mb</b> simétricos, sin teléfono fijo",
+            "bottomText": "<b>29€/mes</b> si ya tienes una móvil con cuota",
+            "urlName": "/internet-en-casa/solo-fibra",
+            "breadcrumb": {
+              "path": "/internet-en-casa",
+              "caption": "Fibra"
+            },
+            "price": "34'60",
+            "textInCard": "Solo Fibra",
+            "subTextInCard": "¡Sin gastos adicionales!",
+            "blueRibbon": false,
+            "isConvergent": false,
+            "textOverFeatures": "Fibra <b>200Mb</b> simétricos sin teléfono fijo",
+            "labelInCard": "Consulta cobertura",
+            "slug": "solo-fibra",
+            "features": [
+              {
+                "id": 6,
+                "category": "fibra",
+                "value": "200",
+                "units": "Mbps"
+              }
+            ],
+            "details": [
+              {
+                "name": "Precio",
+                "value": "Si ya tienes una tarifa de móvil con cuota con nosotros y lo domicilias todo en la misma cuenta bancaria, <b>se queda en 29€ al mes.</b><br /><br /><span style=\"color: #4A90E2\">Por el momento, en el resumen de compra no somos capaces de mostrarte el descuento (-5,60€ por tener ya una línea móvil con cuota), pero en Pepephone todos los descuentos se aplican automáticamente cuando cumples condiciones, es decir, no tienes que pedírnoslos.</span><br /><br />Si tienes además una tarifa Inimitable pagada en la misma cuenta corriente accederás a <b>la primera tarifa del mercado que baja de precio cada año</b>, en concreto, 1€ por cada año que lleves con nosotros con un límite de 5€."
+              },
+              {
+                "name": "Detalle de Fibra",
+                "value": "<b>FIBRA SIMÉTRICA</b> de 200Mbps de velocidad (200Mbps de subida y 200Mbps de bajada), <b>sin teléfono fijo</b> y por tanto sin cuotas de línea aparte.<br /><br /><b>ROUTER</b> Wifi-n ac 2,4G/5G con 4 puertos ethernet. Incluido en cesión gratuita. <br /><br />Utilizamos <b>CG-NAT</b>, lo que nos permite ofrecerte un servicio más económico dado el creciente precio de las direcciones IPV4. Solo te impacta si necesitas redirigir puertos desde tu router. Si en algún momento lo necesitas, sólo tienes que pedirnos una IP pública y te la asignaremos sin coste.<br /><br /><b>SIN PERMANENCIA</b>, ni costes de alta o instalación. Queremos que te quedes con nosotros únicamente porque estés contento con nuestro servicio.<br /><br /><b>Tu eliges cuando quieres que te la instalemos</b>, podrás seleccionar la fecha y la hora que mejor te encaje para la instalación, incluyendo días laborables hasta las 21h y sábados. <br /><br /><b>SIEMPRE CON CONEXIÓN</b>, si detectásemos un problema en tu fibra, nunca te quedarás sin conexión, tendrás 5GB gratis al día en tu móvil Pepephone para que puedas navegar sin preocupaciones hasta que lo arreglemos. Y como siempre, te compensaremos sin que tengas que pedirlo.<br /><br /><b>LA BAJA</b> de nuestra Fibra no tiene coste para ti. En ADSL (21,96€) y Fibra en Red Movistar (23,32€) sí, ya que es un gasto de desconexión física que nos cobra Telefónica."
+              },
+              {
+                "name": "Y si quieres energía a precio de coste…",
+                "value": "<b>Descubre Pepeenergy</b>, nuestra compañía eléctrica. Por ser cliente de Pepephone tendrás <b>energía 100% verde a precio de coste</b> y te ahorrarás la cuota mensual (4€/mes para no clientes). Porque el mercado de la electricidad también necesita principios.<br /><br /><a href=\"https://www.pepeenergy.com/\" target=\"_blank\">Ir a Pepeenergy</a>"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "movil-fibra",
+    "title": "Móvil + Fibra",
+    "urlName": "convergentes",
+    "icon": "fiber",
+    "tags": [
+      "mobile+fiber"
+    ],
+    "titleTariff": "¿Qué paquete convergente quieres?",
+    "purchases": [
+      {
+        "id": 0,
+        "urlName": "/adsl-fibra-movil/el-trio-inimitable",
+        "breadcrumb": {
+          "path": "/adsl-fibra-movil",
+          "caption": "Fibra + Móvil"
+        },
+        "description": "<span>Fibra 200Mb</span><br />Fibra simétrica, sin teléfono fijo",
+        "description2": "<span>2 líneas móviles</span><br />23GB acumulables<br />Llamadas <b>ilimitadas</b>",
+        "name": "Fibra + 2 Inimitables",
+        "subtitle": "El trío Inimitable",
+        "textInCard": "Fibra + 2 Inimitables",
+        "textOverFeatures": "Fibra <b>200Mb</b></p><p>2x<b>23GB</b> acumulables<br />y llamadas <b>ilimitadas</b>",
+        "labelInCard": "La quiero",
+        "isConvergent": true,
+        "price": "58'90",
+        "blueRibbon": true,
+        "trioInimitable": true,
+        "discount": {
+          "name": "Descuento dúo inimitable",
+          "description": "Descuento dúo inimitable",
+          "amount": -5.60,
+          "code": "DCV",
+          "now": false,
+          "discount": true
+        },
+        "bundles": [
+          {
+            "id": 8,
+            "code": 1001,
+            "area": "MV",
+            "family": "VOZ-DATOS",
+            "price": "19'90",
+            "slug": "la-inimitable-convergente",
+            "discount": {
+              "name": "Descuento convergencia",
+              "amount": 0
+            },
+            "features": []
+          },
+          {
+            "id": 9,
+            "code": 1001,
+            "area": "MV",
+            "family": "VOZ-DATOS",
+            "price": "19'90",
+            "slug": "la-inimitable-convergente",
+            "discount": {
+              "name": "Descuento convergencia",
+              "amount": 0
+            },
+            "features": []
+          },
+          {
+            "id": 10,
+            "area": "FH",
+            "family": "FIBRA",
+            "price": "34'60",
+            "discount": {
+              "name": "Descuento convergencia",
+              "amount": 0
+            },
+            "features": []
+          }
+        ],
+        "details": [
+          {
+            "name": "La única que baja de precio cada año",
+            "value": "Es la <b>primera tarifa del mercado que baja de precio cada año</b> para premiar tu fidelidad. Te descontaremos 1€ por cada año que te quedes con nosotros, hasta un máximo de 5€. Empezarás pagando <b>58,90€/mes</b> y a partir del 5 año tu cuota mensual se quedará en 53,90€/mes.<br />IVA y PRINCIPIOS incluidos.<br /><br /><span style=\"color: #4A90E2\">Y además podrás añadir hasta 3 Inimitables más por solo 10€ al mes cada una.</span><br /><br />Para la aplicación de los descuentos es necesario que los productos estén en el mismo titular y domiciliados en la misma cuenta corriente."
+          },
+          {
+            "name": "En casa",
+            "value": "<b>FIBRA SIMÉTRICA</b> de 200Mbps de velocidad (200Mbps de subida y 200Mbps de bajada), <b>sin teléfono fijo</b> y por tanto sin cuotas de línea aparte.<br /><br /><b>ROUTER</b> Wifi-n ac 2,4G/5G con 4 puertos ethernet. Incluido en cesión gratuita. <br /><br />Utilizamos <b>CG-NAT</b>, lo que nos permite ofrecerte un servicio más económico dado el creciente precio de las direcciones IPV4. Solo te impacta si necesitas redirigir puertos desde tu router. Si en algún momento lo necesitas, sólo tienes que pedirnos una IP pública y te la asignaremos sin coste.<br /><br /><b>SIN PERMANENCIA</b>, ni costes de alta o instalación. Queremos que te quedes con nosotros únicamente porque estés contento con nuestro servicio.<br /><br /><b>Tu eliges cuando quieres que te la instalemos</b>, podrás seleccionar la fecha y la hora que mejor te encaje para la instalación, incluyendo días laborables hasta las 21h y sábados. <br /><br /><b>SIEMPRE CON CONEXIÓN</b>, si detectásemos un problema en tu fibra, nunca te quedarás sin conexión, tendrás 5GB gratis al día en tu móvil Pepephone para que puedas navegar sin preocupaciones hasta que lo arreglemos. Y como siempre, te compensaremos sin que tengas que pedirlo.<br /><br /><b>LA BAJA</b> de nuestra Fibra no tiene coste para ti. En ADSL (21,96€) y Fibra en Red Movistar (23,32€) sí, ya que es un gasto de desconexión física que nos cobra Telefónica."
+          },
+          {
+            "name": "En cada línea móvil",
+            "value": "<b>23GB</b> para navegar al mes, y si te sobran, <b>¡los acumulas para el siguiente mes!</b><br />Si se te acaban los datos navegarás a velocidad reducida sin coste adicional. Si quieres seguir navegando a alta velocidad tienes las siguientes opciones:<br />- Activar bonos de 1GB/1€ (limite 1GB/día)<br />- Comprar bonos de 1GB/6€<br />- Duplicar los GBs de tu tarifa por el mismo precio (19,90€)<br /><br /><b>LLAMADAS ILIMITADAS</b> a fijos y móviles nacionales, sin coste de establecimiento ni más limitaciones que hacer un uso adecuado (destinarlo a tu uso personal y no revender el servicio). Excluye las llamadas de tarificación especial.<br /><br /><b>SMS</b> no incluidos. Coste por envío de SMS 10,89 cént.<br /><br /><b>ROAMING</b> en la UE sin coste, llama y navega como si estuvieras en España (podrás utilizar 7,31GB de tu bono de datos nacional para navegar). <a href=\"/tarifas-moviles/roaming-europa\">Ver detalle de paises</a>"
+          },
+          {
+            "name": "Y si quieres energía a precio de coste…",
+            "value": "<b>Descubre Pepeenergy</b>, nuestra compañía eléctrica. Por ser cliente de Pepephone tendrás <b>energía 100% verde a precio de coste</b> y te ahorrarás la cuota mensual (4€/mes para no clientes). Porque el mercado de la electricidad también necesita principios.<br /><br /><a href=\"https://www.pepeenergy.com/\" target=\"_blank\">Ir a Pepeenergy</a>"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "channels": {
+          "MVL": {
+            "subtitle": "con regalo Movilonia",
+            "urlName": "/adsl-fibra-movil/pareja-movilonia",
+            "details": [
+              {
+                "name": "La única que baja de precio cada año",
+                "value": "Es la <b>primera tarifa del mercado que baja de precio cada año</b> para premiar tu fidelidad. Te descontaremos 1€ por cada año que te quedes con nosotros, hasta un máximo de 5€. Empezarás pagando <b>48,90€/mes</b> y a partir del 5 año tu cuota mensual se quedará en 43,90€/mes.<br />IVA y PRINCIPIOS incluidos.<br /><br /><span style=\"color: #4A90E2\">Comprando a través de esta página, MOVILONIA te regalará una de estas opciones:</span><br /><br /><span style=\"color: #4A90E2\">A) Código PIN canjeable por 10 euros de saldo en Amazon. Canjeable al instante. Caduca a los 10 años. Permite pagar total o parcialmente cualquier pedido de Amazon.</span><br /><br /><span style=\"color: #4A90E2\">B) Welcome pack Tienda Movilonia. Descuento de 5 euros en cualquier producto de la tienda (no exige compra mínima) + enchufe USB de carga rápida (2A) universal modelo Meizu UP1220E. Se lo enviamos sin gastos de envío mediante correo postal certificado.</span><br /><br /><span style=\"color: #4A90E2\">Contratando en esta páina aceptas que Movilonia te contacte  por email, una vez se activen tus servicios, para acordar el regalo que elijas.</span><br /><br /><span style=\"color: #4A90E2\">Y además podrás añadir hasta 4 Inimitables más por solo 10€ al mes cada una.</span><br /><br />Para la aplicación de los descuentos es necesario que los productos estén en el mismo titular y domiciliados en la misma cuenta corriente."
+              },
+              {
+                "name": "En casa",
+                "value": "<b>FIBRA SIMÉTRICA</b> de 200Mbps de velocidad (200Mbps de subida y 200Mbps de bajada), <b>sin teléfono fijo</b> y por tanto sin cuotas de línea aparte.<br /><br /><b>ROUTER</b> Wifi-n ac 2,4G/5G con 4 puertos ethernet. Incluido en cesión gratuita. <br /><br />Utilizamos <b>CG-NAT</b>, lo que nos permite ofrecerte un servicio más económico dado el creciente precio de las direcciones IPV4. Solo te impacta si necesitas redirigir puertos desde tu router. Si en algún momento lo necesitas, sólo tienes que pedirnos una IP pública y te la asignaremos sin coste.<br /><br /><b>SIN PERMANENCIA</b>, ni costes de alta o instalación. Queremos que te quedes con nosotros únicamente porque estés contento con nuestro servicio.<br /><br /><b>Tu eliges cuando quieres que te la instalemos</b>, podrás seleccionar la fecha y la hora que mejor te encaje para la instalación, incluyendo días laborables hasta las 21h y sábados. <br /><br /><b>SIEMPRE CON CONEXIÓN</b>, si detectásemos un problema en tu fibra, nunca te quedarás sin conexión, tendrás 5GB gratis al día en tu móvil Pepephone para que puedas navegar sin preocupaciones hasta que lo arreglemos. Y como siempre, te compensaremos sin que tengas que pedirlo.<br /><br /><b>LA BAJA</b> de nuestra Fibra no tiene coste para ti. En ADSL (21,96€) y Fibra en Red Movistar (23,32€) sí, ya que es un gasto de desconexión física que nos cobra Telefónica."
+              },
+              {
+                "name": "En el móvil",
+                "value": "<b>23GB</b> para navegar al mes, y si te sobran, <b>¡los acumulas para el siguiente mes!</b><br />Si se te acaban los datos navegarás a velocidad reducida sin coste adicional. Si quieres seguir navegando a alta velocidad tienes las siguientes opciones:<br />- Activar bonos de 1GB/1€ (limite 1GB/día)<br />- Comprar bonos de 1GB/6€<br />- Duplicar los GBs de tu tarifa por el mismo precio (19,90€)<br /><br /><b>LLAMADAS ILIMITADAS</b> a fijos y móviles nacionales, sin coste de establecimiento ni más limitaciones que hacer un uso adecuado (destinarlo a tu uso personal y no revender el servicio). Excluye las llamadas de tarificación especial.<br /><br /><b>SMS</b> no incluidos. Coste por envío de SMS 10,89 cént.<br /><br /><b>ROAMING</b> en la UE sin coste, llama y navega como si estuvieras en España (podrás utilizar 7,31GB de tu bono de datos nacional para navegar). <a href=\"/tarifas-moviles/roaming-europa\">Ver detalle de paises</a>"
+              },
+              {
+                "name": "Y si quieres energía a precio de coste…",
+                "value": "<b>Descubre Pepeenergy</b>, nuestra compañía eléctrica. Por ser cliente de Pepephone tendrás <b>energía 100% verde a precio de coste</b> y te ahorrarás la cuota mensual (4€/mes para no clientes). Porque el mercado de la electricidad también necesita principios.<br /><br /><a href=\"https://www.pepeenergy.com/\" target=\"_blank\">Ir a Pepeenergy</a>"
+              }
+            ]
+          }
+        },
+        "name": "Fibra + Inimitable",
+        "subtitle": "La pareja inimitable",
+        "description": "<span>Fibra 200Mb</span><br />Fibra simétrica, sin teléfono fijo",
+        "description2": "<span>1 línea móvil</span><br /><b>23GB</b> acumulables<br />Llamadas <b>ilimitadas</b>",
+        "urlName": "/adsl-fibra-movil/la-pareja-inimitable",
+        "breadcrumb": {
+          "path": "/adsl-fibra-movil",
+          "caption": "Fibra + Móvil"
+        },
+        "textInCard": "Fibra + Inimitable",
+        "textOverFeatures": "Fibra <b>200Mb</b></p><p><b>23GB</b> acumulables<br />y llamadas <b>ilimitadas</b>",
+        "labelInCard": "La quiero",
+        "blueRibbon": true,
+        "isConvergent": true,
+        "parejaInimitable": true,
+        "price": "48'90",
+        "discount": {
+          "name": "Descuento pareja inimitable",
+          "description": "Descuento pareja inimitable",
+          "amount": -5.60,
+          "code": "DCV",
+          "now": false,
+          "discount": true
+        },
+        "bundles": [
+          {
+            "id": 6,
+            "code": 1001,
+            "area": "MV",
+            "family": "VOZ-DATOS",
+            "price": "19'90",
+            "slug": "la-inimitable-convergente",
+            "discount": {
+              "name": "Descuento convergencia",
+              "amount": 0
+            },
+            "features": []
+          },
+          {
+            "id": 7,
+            "area": "FH",
+            "family": "FIBRA",
+            "price": "34'60",
+            "discount": {
+              "name": "Descuento convergencia",
+              "amount": 0
+            },
+            "features": []
+          }
+        ],
+        "details": [
+          {
+            "name": "La única que baja de precio cada año",
+            "value": "Es la <b>primera tarifa del mercado que baja de precio cada año</b> para premiar tu fidelidad. Te descontaremos 1€ por cada año que te quedes con nosotros, hasta un máximo de 5€. Empezarás pagando <b>48,90€/mes</b> y a partir del 5 año tu cuota mensual se quedará en 43,90€/mes.<br />IVA y PRINCIPIOS incluidos.<br /><br /><span style=\"color: #4A90E2\">Y además podrás añadir hasta 4 Inimitables más por solo 10€ al mes cada una.</span><br /><br />Para la aplicación de los descuentos es necesario que los productos estén en el mismo titular y domiciliados en la misma cuenta corriente."
+          },
+          {
+            "name": "En casa",
+            "value": "<b>FIBRA SIMÉTRICA</b> de 200Mbps de velocidad (200Mbps de subida y 200Mbps de bajada), <b>sin teléfono fijo</b> y por tanto sin cuotas de línea aparte.<br /><br /><b>ROUTER</b> Wifi-n ac 2,4G/5G con 4 puertos ethernet. Incluido en cesión gratuita. <br /><br />Utilizamos <b>CG-NAT</b>, lo que nos permite ofrecerte un servicio más económico dado el creciente precio de las direcciones IPV4. Solo te impacta si necesitas redirigir puertos desde tu router. Si en algún momento lo necesitas, sólo tienes que pedirnos una IP pública y te la asignaremos sin coste.<br /><br /><b>SIN PERMANENCIA</b>, ni costes de alta o instalación. Queremos que te quedes con nosotros únicamente porque estés contento con nuestro servicio.<br /><br /><b>Tu eliges cuando quieres que te la instalemos</b>, podrás seleccionar la fecha y la hora que mejor te encaje para la instalación, incluyendo días laborables hasta las 21h y sábados. <br /><br /><b>SIEMPRE CON CONEXIÓN</b>, si detectásemos un problema en tu fibra, nunca te quedarás sin conexión, tendrás 5GB gratis al día en tu móvil Pepephone para que puedas navegar sin preocupaciones hasta que lo arreglemos. Y como siempre, te compensaremos sin que tengas que pedirlo.<br /><br /><b>LA BAJA</b> de nuestra Fibra no tiene coste para ti. En ADSL (21,96€) y Fibra en Red Movistar (23,32€) sí, ya que es un gasto de desconexión física que nos cobra Telefónica."
+          },
+          {
+            "name": "En el móvil",
+            "value": "<b>23GB</b> para navegar al mes, y si te sobran, <b>¡los acumulas para el siguiente mes!</b><br />Si se te acaban los datos navegarás a velocidad reducida sin coste adicional. Si quieres seguir navegando a alta velocidad tienes las siguientes opciones:<br />- Activar bonos de 1GB/1€ (limite 1GB/día)<br />- Comprar bonos de 1GB/6€<br />- Duplicar los GBs de tu tarifa por el mismo precio (19,90€)<br /><br /><b>LLAMADAS ILIMITADAS</b> a fijos y móviles nacionales, sin coste de establecimiento ni más limitaciones que hacer un uso adecuado (destinarlo a tu uso personal y no revender el servicio). Excluye las llamadas de tarificación especial.<br /><br /><b>SMS</b> no incluidos. Coste por envío de SMS 10,89 cént.<br /><br /><b>ROAMING</b> en la UE sin coste, llama y navega como si estuvieras en España (podrás utilizar 7,31GB de tu bono de datos nacional para navegar). <a href=\"/tarifas-moviles/roaming-europa\">Ver detalle de paises</a>"
+          },
+          {
+            "name": "Y si quieres energía a precio de coste…",
+            "value": "<b>Descubre Pepeenergy</b>, nuestra compañía eléctrica. Por ser cliente de Pepephone tendrás <b>energía 100% verde a precio de coste</b> y te ahorrarás la cuota mensual (4€/mes para no clientes). Porque el mercado de la electricidad también necesita principios.<br /><br /><a href=\"https://www.pepeenergy.com/\" target=\"_blank\">Ir a Pepeenergy</a>"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Fibra + Móvil 6GB y 101 min",
+        "urlName": "/adsl-fibra-movil/el-movil-con-fibra-mas-normal",
+        "breadcrumb": {
+          "path": "/adsl-fibra-movil",
+          "caption": "Fibra + Móvil"
+        },
+        "description": "<span>Fibra 200Mb</span><br />Fibra simétrica, sin teléfono fijo",
+        "description2": "<span>1 línea móvil</span><br /><b>6GB</b> acumulables + llamadas <b>101 min</b>",
+        "textInCard": "Fibra + Móvil 6GB",
+        "textOverFeatures": "Fibra 200Mb + 6GB acumulables y 101 minutos ",
+        "labelInCard": "La quiero",
+        "isConvergent": true,
+        "price": "43'90",
+        "blueRibbon": false,
+        "discount": {
+          "name": "Descuento convergencia",
+          "description": "Descuento convergencia",
+          "amount": -5.60,
+          "code": "DCV",
+          "now": false,
+          "discount": true
+        },
+        "bundles": [
+          {
+            "id": 11,
+            "price": "14'90",
+            "code": 1003,
+            "area": "MV",
+            "family": "VOZ-DATOS",
+            "slug": "la-mejor-convergente",
+            "discount": {
+              "name": "Descuento convergencia",
+              "amount": 0
+            },
+            "features": []
+          },
+          {
+            "id": 12,
+            "price": "34'60",
+            "area": "FH",
+            "family": "FIBRA",
+            "discount": {
+              "name": "Descuento convergencia",
+              "amount": 0
+            },
+            "features": []
+          }
+        ],
+        "details": [
+          {
+            "name": "En casa",
+            "value": "<b>FIBRA SIMÉTRICA</b> de 200Mbps de velocidad (200Mbps de subida y 200Mbps de bajada), <b>sin teléfono fijo</b> y por tanto sin cuotas de línea aparte.<br /><br /><b>ROUTER</b> Wifi-n ac 2,4G/5G con 4 puertos ethernet. Incluido en cesión gratuita. <br /><br />Utilizamos <b>CG-NAT</b>, lo que nos permite ofrecerte un servicio más económico dado el creciente precio de las direcciones IPV4. Solo te impacta si necesitas redirigir puertos desde tu router. Si en algún momento lo necesitas, sólo tienes que pedirnos una IP pública y te la asignaremos sin coste.<br /><br /><b>SIN PERMANENCIA</b>, ni costes de alta o instalación. Queremos que te quedes con nosotros únicamente porque estés contento con nuestro servicio.<br /><br /><b>Tu eliges cuando quieres que te la instalemos</b>, podrás seleccionar la fecha y la hora que mejor te encaje para la instalación, incluyendo días laborables hasta las 21h y sábados. <br /><br /><b>SIEMPRE CON CONEXIÓN</b>, si detectásemos un problema en tu fibra, nunca te quedarás sin conexión, tendrás 5GB gratis al día en tu móvil Pepephone para que puedas navegar sin preocupaciones hasta que lo arreglemos. Y como siempre, te compensaremos sin que tengas que pedirlo.<br /><br /><b>LA BAJA</b> de nuestra Fibra no tiene coste para ti. En ADSL (21,96€) y Fibra en Red Movistar (23,32€) sí, ya que es un gasto de desconexión física que nos cobra Telefónica."
+          },
+          {
+            "name": "En el móvil",
+            "value": "<b>6GB</b> para navegar al mes, y si te sobran, <b>¡los acumulas para el siguiente mes!</b><br />Si se te acaban los datos navegarás a velocidad reducida sin coste adicional. Si quieres seguir navegando a alta velocidad tienes las siguientes opciones:<br />- Activar bonos de 1GB/1€ (limite 1GB/día)<br />- Comprar bonos de 1GB/6€<br />- Duplicar los GBs de tu tarifa por el mismo precio (14,90€)<br />- Cambiarte a una tarifa superior desde la App Mi Pepephone.<br /><br /><b>LLAMADAS</b>, incluye 101 min desde móvil a fijos y móviles nacionales (sin coste de establecimiento de llamada). Superados, el coste es 0 cént./min los primeros 20 min de cada llamada y luego 0,73 cént./min. Coste de establecimiento de llamada 18,15 cént.<br /><br /><b>SMS</b> no incluidos. Coste por envío de SMS 10,89 cént.<br /><br /><b>ROAMING</b> en la UE sin coste, llama y navega como si estuvieras en España (podrás utilizar 5,47GB de tu bono de datos nacional para navegar). <a href=\"/tarifas-moviles/roaming-europa\">Ver detalle de paises</a>"
+          },
+          {
+            "name": "Y si quieres energía a precio de coste…",
+            "value": "<b>Descubre Pepeenergy</b>, nuestra compañía eléctrica. Por ser cliente de Pepephone tendrás <b>energía 100% verde a precio de coste</b> y te ahorrarás la cuota mensual (4€/mes para no clientes). Porque el mercado de la electricidad también necesita principios.<br /><br /><a href=\"https://www.pepeenergy.com/\" target=\"_blank\">Ir a Pepeenergy</a>"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Fibra + Móvil 3GB y 101min",
+        "description": "<span>Fibra 200Mb</span><br />Fibra simétrica, sin teléfono fijo",
+        "description2": "<span>1 línea móvil</span><br /><b>3GB</b> acumulables + llamadas <b>101min</b>",
+        "urlName": "/adsl-fibra-movil/el-movil-con-fibra-mas-ajustado",
+        "breadcrumb": {
+          "path": "/adsl-fibra-movil",
+          "caption": "Fibra + Móvil"
+        },
+        "textInCard": "Fibra + Móvil 3GB",
+        "textOverFeatures": "Fibra 200Mb + 3GB acumulables y 101 minutos",
+        "labelInCard": "La quiero",
+        "blueRibbon": false,
+        "isConvergent": true,
+        "price": "40'90",
+        "discount": {
+          "name": "Descuento convergencia",
+          "description": "Descuento convergencia",
+          "amount": -5.60,
+          "code": "DCV",
+          "now": false,
+          "discount": true
+        },
+        "bundles": [
+          {
+            "id": 13,
+            "code": 1002,
+            "area": "MV",
+            "family": "VOZ-DATOS",
+            "price": "11'90",
+            "slug": "la-reducida-convergente",
+            "discount": {
+              "name": "Descuento convergencia",
+              "amount": 0
+            },
+            "features": []
+          },
+          {
+            "id": 14,
+            "area": "FH",
+            "family": "FIBRA",
+            "price": "34'60",
+            "discount": {
+              "name": "Descuento convergencia",
+              "amount": 0
+            },
+            "features": []
+          }
+        ],
+        "details": [
+          {
+            "name": "En casa",
+            "value": "<b>FIBRA SIMÉTRICA</b> de 200Mbps de velocidad (200Mbps de subida y 200Mbps de bajada), <b>sin teléfono fijo</b> y por tanto sin cuotas de línea aparte.<br /><br /><b>ROUTER</b> Wifi-n ac 2,4G/5G con 4 puertos ethernet. Incluido en cesión gratuita. <br /><br />Utilizamos <b>CG-NAT</b>, lo que nos permite ofrecerte un servicio más económico dado el creciente precio de las direcciones IPV4. Solo te impacta si necesitas redirigir puertos desde tu router. Si en algún momento lo necesitas, sólo tienes que pedirnos una IP pública y te la asignaremos sin coste.<br /><br /><b>SIN PERMANENCIA</b>, ni costes de alta o instalación. Queremos que te quedes con nosotros únicamente porque estés contento con nuestro servicio.<br /><br /><b>Tu eliges cuando quieres que te la instalemos</b>, podrás seleccionar la fecha y la hora que mejor te encaje para la instalación, incluyendo días laborables hasta las 21h y sábados. <br /><br /><b>SIEMPRE CON CONEXIÓN</b>, si detectásemos un problema en tu fibra, nunca te quedarás sin conexión, tendrás 5GB gratis al día en tu móvil Pepephone para que puedas navegar sin preocupaciones hasta que lo arreglemos. Y como siempre, te compensaremos sin que tengas que pedirlo.<br /><br /><b>LA BAJA</b> de nuestra Fibra no tiene coste para ti. En ADSL (21,96€) y Fibra en Red Movistar (23,32€) sí, ya que es un gasto de desconexión física que nos cobra Telefónica."
+          },
+          {
+            "name": "En el móvil",
+            "value": "<b>3GB</b> para navegar al mes, y si te sobran, <b>¡los acumulas para el siguiente mes!</b><br />Si se te acaban los datos navegarás a velocidad reducida sin coste adicional. Si quieres seguir navegando a alta velocidad tienes las siguientes opciones:<br />- Activar bonos de 1GB/1€ (limite 1GB/día)<br />- Comprar bonos de 1GB/6€<br />- Duplicar los GBs de tu tarifa por el mismo precio (11,90€).<br />- Cambiarte a una tarifa superior desde la App Mi Pepephone.<br /><br /><b>LLAMADAS</b>, incluye 101 min desde móvil a fijos y móviles nacionales (sin coste de establecimiento de llamada). Superados, el coste es 0 cént./min los primeros 20 min de cada llamada y luego 0,73 cént./min. Coste de establecimiento de llamada 18,15 cént.<br /><br /><b>SMS</b> no incluidos. Coste por envío de SMS 10,89 cént.<br /><br /><b>ROAMING</b> en la UE sin coste, llama y navega como si estuvieras en España (podrás utilizar el 100% de tu bono de datos nacional para navegar). <a href=\"/tarifas-moviles/roaming-europa\">Ver detalle de paises</a>"
+          },
+          {
+            "name": "Y si quieres energía a precio de coste…",
+            "value": "<b>Descubre Pepeenergy</b>, nuestra compañía eléctrica. Por ser cliente de Pepephone tendrás <b>energía 100% verde a precio de coste</b> y te ahorrarás la cuota mensual (4€/mes para no clientes). Porque el mercado de la electricidad también necesita principios.<br /><br /><a href=\"https://www.pepeenergy.com/\" target=\"_blank\">Ir a Pepeenergy</a>"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Fibra + Móvil 6GB",
+        "urlName": "/adsl-fibra-movil/el-movil-con-fibra-mas-barato",
+        "breadcrumb": {
+          "path": "/adsl-fibra-movil",
+          "caption": "Fibra + Móvil"
+        },
+        "description": "<span>Fibra 200Mb</span><br />Fibra simétrica, sin teléfono fijo",
+        "description2": "<span>1 línea móvil</span><br /><b>6GB</b> acumulables + llamadas <b>0cént/min</b>",
+        "textInCard": "Fibra + Móvil 6GB",
+        "textOverFeatures": "Fibra <b>200Mb</b></p><p> <b>6GB</b> acumulables y llamadas <b>0cént/min</b>",
+        "labelInCard": "La quiero",
+        "blueRibbon": false,
+        "isConvergent": true,
+        "price": "39'90",
+        "discount": {
+          "name": "Descuento convergencia",
+          "description": "Descuento convergencia",
+          "amount": -5.60,
+          "code": "DCV",
+          "now": false,
+          "discount": true
+        },
+        "bundles": [
+          {
+            "id": 15,
+            "code": 1005,
+            "area": "MV",
+            "family": "VOZ-DATOS",
+            "price": "10'90",
+            "slug": "la-mediana-convergente",
+            "discount": {
+              "name": "Descuento convergencia",
+              "amount": 0
+            },
+            "features": []
+          },
+          {
+            "id": 16,
+            "area": "FH",
+            "family": "FIBRA",
+            "price": "34'60",
+            "discount": {
+              "name": "Descuento convergencia",
+              "amount": 0
+            },
+            "features": []
+          }
+        ],
+        "details": [
+          {
+            "name": "En casa",
+            "value": "<b>FIBRA SIMÉTRICA</b> de 200Mbps de velocidad (200Mbps de subida y 200Mbps de bajada), <b>sin teléfono fijo</b> y por tanto sin cuotas de línea aparte.<br /><br /><b>ROUTER</b> Wifi-n ac 2,4G/5G con 4 puertos ethernet. Incluido en cesión gratuita. <br /><br />Utilizamos <b>CG-NAT</b>, lo que nos permite ofrecerte un servicio más económico dado el creciente precio de las direcciones IPV4. Solo te impacta si necesitas redirigir puertos desde tu router. Si en algún momento lo necesitas, sólo tienes que pedirnos una IP pública y te la asignaremos sin coste.<br /><br /><b>SIN PERMANENCIA</b>, ni costes de alta o instalación. Queremos que te quedes con nosotros únicamente porque estés contento con nuestro servicio.<br /><br /><b>Tu eliges cuando quieres que te la instalemos</b>, podrás seleccionar la fecha y la hora que mejor te encaje para la instalación, incluyendo días laborables hasta las 21h y sábados. <br /><br /><b>SIEMPRE CON CONEXIÓN</b>, si detectásemos un problema en tu fibra, nunca te quedarás sin conexión, tendrás 5GB gratis al día en tu móvil Pepephone para que puedas navegar sin preocupaciones hasta que lo arreglemos. Y como siempre, te compensaremos sin que tengas que pedirlo.<br /><br /><b>LA BAJA</b> de nuestra Fibra no tiene coste para ti. En ADSL (21,96€) y Fibra en Red Movistar (23,32€) sí, ya que es un gasto de desconexión física que nos cobra Telefónica."
+          },
+          {
+            "name": "En el móvil",
+            "value": "<b>6GB</b> para navegar al mes, y si te sobran, <b>¡los acumulas para el siguiente mes!</b><br />Si se te acaban los datos navegarás a velocidad reducida sin coste adicional. Si quieres seguir navegando a alta velocidad tienes las siguientes opciones:<br />- Activar bonos de 1GB/1€ (limite 1GB/día)<br />- Comprar bonos de 1GB/6€<br />- Duplicar los GBs de tu tarifa por el mismo precio (10,90€).<br />- Cambiarte a una tarifa superior desde la App Mi Pepephone.<br /><br /><b>LLAMADAS</b>, hablas por 0 cént./min desde móvil a fijos y móviles nacionales los primeros 20 min de cada llamada y luego 0,73 cént./min. Coste de establecimiento de llamada 18,15 cént.<br /><br /><b>SMS</b> no incluidos. Coste por envío de SMS 10,89 cént.<br /><br /><b>ROAMING</b> en la UE sin coste, llama y navega como si estuvieras en España (podrás utilizar 4GB de tu bono de datos nacional para navegar). <a href=\"/tarifas-moviles/roaming-europa\">Ver detalle de paises</a>"
+          },
+          {
+            "name": "Y si quieres energía a precio de coste…",
+            "value": "<b>Descubre Pepeenergy</b>, nuestra compañía eléctrica. Por ser cliente de Pepephone tendrás <b>energía 100% verde a precio de coste</b> y te ahorrarás la cuota mensual (4€/mes para no clientes). Porque el mercado de la electricidad también necesita principios.<br /><br /><a href=\"https://www.pepeenergy.com/\" target=\"_blank\">Ir a Pepeenergy</a>"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Solo Hablar",
+    "title": "Solo Hablar",
+    "urlName": "solo-habla",
+    "icon": "mobile",
+    "tags": [
+      "mobile"
+    ],
+    "titleTariff": "¿Inimitable o personaliza?",
+    "offers": [
+      {
+        "id": 4,
+        "name": "Solo voz",
+        "title": "Solo voz",
+        "multichoice": false,
+        "withName": true,
+        "bundles": [
+          {
+            "id": 17,
+            "code": 298,
+            "area": "MV",
+            "family": "VOZ",
+            "name": "Habla 1.001 min",
+            "urlName": "/tarifas-moviles/la-de-solo-voz",
+            "urlFamily": "/habla/solo-habla",
+            "breadcrumb": {
+              "path": "/tarifas-moviles",
+              "caption": "Sólo voz"
+            },
+            "price": "9'00",
+            "labelInCard": "La quiero",
+            "slug": "la-de-solo-voz",
+            "isConvergent": false,
+            "features": [
+              {
+                "id": 8,
+                "category": "habla",
+                "value": "1001",
+                "units": "min"
+              }
+            ],
+            "details": [
+              {
+                "name": "Detalle de tarifa",
+                "value": "<b>HABLA</b> 1.001 min desde móvil a fijos y móviles nacionales (sin coste de establecimiento de llamada). Superados el coste es 1,21 cént./min y establecimiento de llamada 18,15 cént.<br /><br /><b>SMS</b> no incluidos. Coste por envío de SMS 10,89 cént."
+              },
+              {
+                "name": "Y si quieres energía a precio de coste…",
+                "value": "<b>Descubre Pepeenergy</b>, nuestra compañía eléctrica. Por ser cliente de Pepephone tendrás <b>energía 100% verde a precio de coste</b> y te ahorrarás la cuota mensual (4€/mes para no clientes). Porque el mercado de la electricidad también necesita principios.<br /><br /><a href=\"https://www.pepeenergy.com/\" target=\"_blank\">Ir a Pepeenergy</a>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Solo voz",
+        "title": "Solo voz",
+        "multichoice": false,
+        "withName": true,
+        "subTitle": {
+          "title": "Sin cuotas",
+          "subtitle": "Paga solo por lo que hables"
+        },
+        "bundles": [
+          {
+            "id": 18,
+            "code": 80,
+            "area": "MV",
+            "family": "VOZ",
+            "name": "Solo voz Sin cuotas",
+            "price": "0'00",
+            "isConvergent": false,
+            "urlName": "/tarifas-moviles/la-que-no-tiene-cuotas",
+            "urlFamily": "/habla/solo-habla",
+            "breadcrumb": {
+              "path": "/tarifas-moviles",
+              "caption": "Sólo voz"
+            },
+            "description": "Paga solo por lo que hables",
+            "labelInCard": "La quiero",
+            "slug": "la-que-no-tiene-cuotas",
+            "features": [],
+            "details": [
+              {
+                "name": "Detalle de tarifa",
+                "value": "<b>LLAMA</b> a fijos y móviles nacionales por 7,3 cént./min. Establecimiento de llamada 18,15 cént.<br /><br /><b>SMS</b> no incluidos. Coste por envío de SMS 10,89 cént."
+              },
+              {
+                "name": "Y si quieres energía a precio de coste…",
+                "value": "<b>Descubre Pepeenergy</b>, nuestra compañía eléctrica. Por ser cliente de Pepephone tendrás <b>energía 100% verde a precio de coste</b> y te ahorrarás la cuota mensual (4€/mes para no clientes). Porque el mercado de la electricidad también necesita principios.<br /><br /><a href=\"https://www.pepeenergy.com/\" target=\"_blank\">Ir a Pepeenergy</a>"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
